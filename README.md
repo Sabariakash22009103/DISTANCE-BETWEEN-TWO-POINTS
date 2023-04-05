@@ -14,7 +14,7 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: 
 END THE PROGRAM
 ### PROGRAM:
-    ```
+ ```
   #Program to find the distance between two points.
 #Developed by: Sabari Akash A
 #RegisterNumber: 212222230124
